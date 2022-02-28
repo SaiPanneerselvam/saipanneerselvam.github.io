@@ -1,0 +1,37 @@
+editor {
+    background-color: black;
+    font-family: verdana;
+   }
+  #mydiv {
+   position: absolute;
+   z-index: 9;
+   background-color: #f1f1f1;
+   text-align: center;
+   border: 0.25px solid #d3d3d3;
+ }
+ 
+ #mydivheader {
+   padding: 10px;
+   cursor: move;
+   z-index: 10;
+   background-color: #2196F3;
+   color: #fff;
+   
+ }
+ 
+   textarea {
+   font-family: verdana;
+   
+   border: 2px solid;
+   padding: 20px; 
+   width: 300px;
+   resize: both;
+   overflow: auto;
+ }
+   box {
+   border: 2px solid;
+   padding: 20px; 
+   width: 300px;
+   resize: both;
+   overflow: auto;
+ }
